@@ -1,2 +1,2 @@
-## ISIS RECODE  
-WE DO FUNNY TO MINECRAFT SERVER
+## Iris client
+Minecraft utility client.
